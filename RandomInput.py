@@ -8,6 +8,6 @@ while i<size-1:
 	randomlist.append(randint(-size,size));
 	i+=1;
 	
-fout = open('/Users/vinaykumar/Documents/py/input10pow7.txt','w');
+fout = open('/Users/vinaykumar/Documents/py/input10pow6.txt','w');
 print >>fout, randomlist;
 fout.close();
